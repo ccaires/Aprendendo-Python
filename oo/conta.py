@@ -40,21 +40,6 @@ class Conta:
 		return {"BB":'001', "Caixa":'104'}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #ORIENTAÇÕES
 #1 - Para criar um objeto, na linha de comando faça o seguinte: nomeDoObj = nomedaClasse(parâmetros a serem passados)
 # 2 - Para o depósito, no terminal digite: conta.depositar(digiteOvalor). Após isso, chame a função do extrato e verifique se o valor do saldo alterou. Ex: conta.extrato()
